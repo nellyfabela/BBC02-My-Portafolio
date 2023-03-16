@@ -37,7 +37,7 @@ THEN I am presented with a responsive layout that adapts to my viewport
 
 ## Usage
 
-The website must look like this in order to accomplish the Acceptance Criteria and make it as the Mock'Up>
+The website must look like this in order to accomplish the Acceptance Criteria and make it as the Mock-Up:
 
 ![02-advanced-css-homework-demo](https://user-images.githubusercontent.com/126216168/225479080-82955596-89fd-4c2d-8919-c039a32e1629.gif)
 
