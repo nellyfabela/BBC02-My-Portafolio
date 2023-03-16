@@ -35,7 +35,7 @@ nav{
 
 
 .welcome{
-  background-image: url(/assets/images/welcome-image.jpeg);
+  background-image: url(../images/welcome-image.jpeg);
   background-repeat: no-repeat;
   background-size: cover;
   height: 150px;
@@ -158,7 +158,7 @@ h4{
 
 .first-job{
   display: flex;
-  background-image: url(/assets/images/actual-job.jpg);
+  background-image: url(../images/actual-job.jpg);
   background-size:auto;
   height: 400px;
   width: 100%;
@@ -169,7 +169,7 @@ h4{
 
 .second-job{
   display: flex;
-  background-image: url(/assets/images/second-job.jpeg);
+  background-image: url(../images/second-job.jpeg);
   height: 100px;
   width: 100%;
   margin-bottom: 25px;
@@ -179,7 +179,7 @@ h4{
 
 .third-job{
   display: flex;
-  background-image: url(/assets/images/third-job.jpeg);
+  background-image: url(../images/third-job.jpeg);
   height: 100px;
   width: 100%;
   margin-bottom: 25px;
@@ -189,7 +189,7 @@ h4{
 
 .fourth-job{
   display: flex;
-  background-image: url(/assets/images/fourth-job.jpeg);
+  background-image: url(../images/fourth-job.jpeg);
   height: 100px;
   width: 100%;
   margin-bottom: 25px;
@@ -199,7 +199,7 @@ h4{
 
 .fifth-job{
   display: flex;
-  background-image: url(/assets/images/fifth-image.jpeg);
+  background-image: url(../images/fifth-image.jpeg);
   height: 100px;
   width: 100%;
   margin-bottom: 25px;
