@@ -61,5 +61,5 @@ https://www.youtube.com/watch?v=PlxWf493en4
 
 ## Link to the website worked with the Accepted Criteria
 
-https://nellyfabela.github.io/BCChallenge02/
+https://nellyfabela.github.io/BBC02-My-Portafolio/
 
