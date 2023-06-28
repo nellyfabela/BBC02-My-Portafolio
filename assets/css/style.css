@@ -158,9 +158,9 @@ h4{
 
 .first-job{
   display: flex;
-  background-image: url(../images/firstjobproject1.png);
+  background-image: url(../images/project02.png);
   background-size:cover;
-  height: 400px;
+  height: 300px;
   width: 100%;
   margin-bottom: 25px;
   font-family: Arial, Helvetica, sans-serif;
@@ -169,7 +169,7 @@ h4{
 
 .second-job{
   display: flex;
-  background-image: url(../images/actual-job.jpg);
+  background-image: url(../images/firstjobproject1.png);
   height: 100px;
   width: 100%;
   margin-bottom: 25px;
@@ -179,7 +179,7 @@ h4{
 
 .third-job{
   display: flex;
-  background-image: url(../images/third-job.jpeg);
+  background-image: url(../images/actual-job.jpg);
   height: 100px;
   width: 100%;
   margin-bottom: 25px;
@@ -189,7 +189,7 @@ h4{
 
 .fourth-job{
   display: flex;
-  background-image: url(../images/third-job.jpeg);
+  background-image: url(../images/second-job.jpeg);
   height: 100px;
   width: 100%;
   margin-bottom: 25px;
@@ -199,7 +199,7 @@ h4{
 
 .fifth-job{
   display: flex;
-  background-image: url(../images/fourth-job.jpeg);
+  background-image: url(../images/third-job.jpeg);
   height: 100px;
   width: 100%;
   margin-bottom: 25px;
